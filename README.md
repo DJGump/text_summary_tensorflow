@@ -1,2 +1,1 @@
-# text_summary_tensorflow
-Using tensorflow to generate abstractive summaries of news articles
+# Text Summarization with Deep Learning
